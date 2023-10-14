@@ -1,6 +1,6 @@
 
 # Towers_of_Hanoi
-TOWERS OF HANOI
+## TOWERS OF HANOI
 
 ## Description:
 
